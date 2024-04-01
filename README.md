@@ -8,5 +8,14 @@ This is a Python-based password manager that generates, encrypts, and manages pa
 
 **Password Management:** Access All Saved Passwords From Within Python File
 
-**Fernet Encryption:** Encrypts Passwords Within Text File
+**Fernet Encryption:** Encrypts Passwords to Separate Text File
 
+
+## Pokemon Database:
+Database created from the PokeAPI (https://pokeapi.co/). Gathers and wrangles relevant information about all current and future pokemon.
+
+**Data Scraping:** Requests/Get from PokeAPI
+
+**Pandas Data Manipulation:** Dataframe Creation/Manipulation
+
+**CSV Integration:** Export Final DataFrame to CSV
