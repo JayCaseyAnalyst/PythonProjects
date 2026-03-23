@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment
+.env
+
+# Editor
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Notebooks
+notebooks/.ipynb_checkpoints/
+
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
